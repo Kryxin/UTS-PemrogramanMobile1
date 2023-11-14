@@ -12,7 +12,7 @@ berikut adalah link video youtube saya yang menjelaskan aplikasi yang sudah di j
 Source Code:  
 
 * activity_main.Xml (dibuat dengan design pada android studio):
-  ```<?xml version="1.0" encoding="utf-8"?>
+  <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -97,7 +97,7 @@ Source Code:
     </LinearLayout>
 
 </RelativeLayout>
-```
+
 
 *Penjelasan :*  
 1. kita isi relative layout dengan 2 linear layout
